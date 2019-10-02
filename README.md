@@ -8,7 +8,7 @@ A flexible DNS proxy, with support for modern encrypted DNS protocols such as [D
 - All binary files are downloaded from [https://github.com/jedisct1/dnscrypt-proxy/releases](https://github.com/jedisct1/dnscrypt-proxy/releases)
 
 ## Installation
-- Download the module, check it by public key (gpg --keyserver keys.gnupg.net --recv-keys 17741F73276EC79CDB9F1F92C916DEFF84E8181B) and flash it in Magisk Manager App or in Recovery.
+- Download the module, check it by public key (*gpg --keyserver keys.gnupg.net --recv-keys 17741F73276EC79CDB9F1F92C916DEFF84E8181B*) and flash it in Magisk Manager App or in Recovery.
 
 ### Set DNS server manually with 3rd-party app (not included in this module)
 - DNS server address is 127.0.0.1:5354 for ipv4 and [::1]:5354 for ipv6
