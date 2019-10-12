@@ -32,7 +32,7 @@ A flexible DNS proxy, with support for modern encrypted DNS protocols such as [D
 - updated binary & configuration files to 2.0.27
 - updated configuration file [dnscrypt.toml] according to the revision https://github.com/DNSCrypt/dnscrypt-proxy/releases/tag/2.0.27
 ### v1.0.1
--updated binary files to 2.0.28
+- updated binary files to 2.0.28
 
 [Full changelog](changelog.md)
 
