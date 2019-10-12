@@ -1,6 +1,6 @@
 id=dnscrypt-proxy
 name=dnscrypt-proxy
-version=v1.0.0
-versionCode=1
+version=v1.0.1
+versionCode=1.0.1
 author=lucenera
 description=dnscrypt-proxy for Android
