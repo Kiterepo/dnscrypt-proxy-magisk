@@ -1,6 +1,6 @@
 id=dnscrypt-proxy
 name=dnscrypt-proxy
-version=v1.0.1
-versionCode=1.0.1
+version=v1.0.2
+versionCode=1.0.2
 author=lucenera
-description=dnscrypt-proxy for Android
+description=dnscrypt-proxy for Android. See https://github.com/Magisk-Modules-Grave/dnscrypt-proxy

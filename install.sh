@@ -127,7 +127,7 @@ print_modname() {
   ui_print "*     dnscrypt-proxy-fresh    *"
   ui_print "*        Magisk Module        *"
   ui_print "*******************************"
-  ui_print "*            v1.0.0           *"
+  ui_print "*            v1.0.2           *"
   ui_print "*           lucenera          *"
   ui_print "*******************************"
   ui_print " "
